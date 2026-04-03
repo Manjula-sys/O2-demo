@@ -1,0 +1,4 @@
+results/
+/tmp/o2-benchmark-data/
+*.log
+.DS_Store
