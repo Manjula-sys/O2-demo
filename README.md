@@ -119,3 +119,4 @@ See [benchmarking.md](benchmarking.md) for the full report. TL;DR:
 - **Ingestion**: Both sustain **~3 000 logs/sec** — no difference
 
 - abcd
+- =-efg
